@@ -169,12 +169,12 @@ ORDER BY avg_sell_through DESC;
 
 ## Authors
 
-APAN 5310 Project Team - Columbia University
-Tracey Ho
-Samantha Yung
-Ellen Li
-Alessia Laziosi
-Michael Yan
+APAN 5310 Project Team - Columbia University:
+Tracey Ho,
+Samantha Yung,
+Ellen Li,
+Alessia Laziosi,
+Michael Yan,
 Poorva Desai
 
 ## License
