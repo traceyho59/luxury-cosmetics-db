@@ -25,7 +25,7 @@ The database follows Third Normal Form (3NF) with 8 tables:
 | `products` | Individual SKUs with pricing |
 | `events` | Central fact table with event metrics and foreign keys |
 
-![ER Diagram](https://github.com/traceyho59/luxury-cosmetics-db/blob/main/diagrams/ER_diagram.png)
+![ER Diagram]([https://github.com/traceyho59/luxury-cosmetics-db/blob/main/diagrams/ER_diagram.png](https://github.com/traceyho59/luxury-cosmetics-db/blob/main/ER_diagram.png))
 
 ## Repository Structure
 
