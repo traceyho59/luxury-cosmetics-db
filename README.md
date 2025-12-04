@@ -7,8 +7,7 @@ A relational database system for analyzing luxury cosmetics pop-up retail events
 This project implements a normalized (3NF) PostgreSQL database to track and analyze pop-up retail events for luxury cosmetics brands across global markets. The system supports three core business objectives:
 
 1. **Revenue Efficiency Analysis** - Evaluate event performance relative to footfall and lease duration
-2. **High-Performer Identification** - Identify top-performing locations and event types based on sell-through and conversion rates
-3. **Brand Performance Tracking** - Monitor brand participation and performance across regions and event formats
+2. **Brand Performance Tracking** - MIdentifying and tracking high-performing brands, locations, and event types based on sell-through rates, conversion efficiency, and regional participation patterns
 
 ## Database Schema
 
@@ -33,10 +32,10 @@ The database follows Third Normal Form (3NF) with 8 tables:
 ├── sql/
 │   ├── 01_schema_and_data.sql      # DDL + full data insert
 │   ├── 02_business_req_1.sql       # Revenue efficiency queries
-│   ├── 03_business_req_2.sql       # High performer identification
-│   ├── 04_business_req_3_kpis.sql  # KPI summary queries
-│   ├── 05_business_req_3_region.sql    # Regional brand analysis
-│   └── 06_business_req_3_brand.sql     # Brand participation analysis
+│   ├── 03_business_req_2_rates.sql       # High performer identification
+│   ├── 04_business_req_2_kpis.sql  # KPI summary queries
+│   ├── 05_business_req_2_region.sql    # Regional brand analysis
+│   └── 06_business_req_2_brand.sql     # Brand participation analysis
 ├── notebooks/
 │   └── etl_and_analysis.ipynb      # Python ETL + query execution
 ├── diagrams/
