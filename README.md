@@ -4,7 +4,7 @@ A relational database system for analyzing luxury cosmetics pop-up retail events
 
 ## Project Overview
 
-This project implements a normalized (3NF) PostgreSQL database to track and analyze pop-up retail events for luxury cosmetics brands across global markets. The system supports three core business objectives:
+This project implements a normalized (3NF) PostgreSQL database to track and analyze pop-up retail events for luxury cosmetics brands across global markets. The system supports two core business objectives:
 
 1. **Revenue Efficiency Analysis** - Evaluate event performance relative to footfall and lease duration
 2. **Brand Performance Tracking** - Identifying and tracking high-performing brands, locations, and event types based on sell-through rates, conversion efficiency, and regional participation patterns
