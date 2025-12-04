@@ -130,26 +130,6 @@ Comprehensive brand analytics:
 - Versatility scoring (multi-format, multi-region success)
 - Market opportunity identification
 
-## Dashboard Visualizations
-
-Interactive dashboards built with Metabase to support executive decision-making.
-
-### Business Requirement #1: Revenue Efficiency
-
-Evaluation of event performance relative to footfall and lease duration, featuring revenue efficiency by city, lease length comparisons, and event type analysis.
-
-![BR1 Dashboard](dashboard_br1.png)
-
-### Business Requirement #2: Brand Performance Tracking
-
-Analysis of top-performing cities, regions, event types, and location types with performance matrices and detailed combination rankings.
-
-![BR2 Dashboard - Cities & Regions](dashboard_br2_1.png)
-
-![BR2 Dashboard - Event & Location Types](dashboard_br2_2.png)
-
-![BR2 Dashboard - Top Combinations](dashboard_br2_3.png)
-
 ## Sample Queries
 
 **Top 10 Cities by Sell-Through Rate:**
@@ -181,6 +161,26 @@ FROM events e
 GROUP BY b.brand
 ORDER BY avg_sell_through DESC;
 ```
+
+## Dashboard Visualizations
+
+Interactive dashboards built with Metabase to support executive decision-making.
+
+### Business Requirement #1: Revenue Efficiency
+
+Evaluation of event performance relative to footfall and lease duration, featuring revenue efficiency by city, lease length comparisons, and event type analysis.
+
+![BR1 Dashboard](dashboard_br1.png)
+
+### Business Requirement #2: Brand Performance Tracking
+
+Analysis of top-performing cities, regions, event types, and location types with performance matrices and detailed combination rankings.
+
+![BR2 Dashboard - Cities & Regions](dashboard_br2_1.png)
+
+![BR2 Dashboard - Event & Location Types](dashboard_br2_2.png)
+
+![BR2 Dashboard - Top Combinations](dashboard_br2_3.png)
 
 ## Authors
 
