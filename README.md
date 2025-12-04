@@ -40,8 +40,6 @@ The database follows Third Normal Form (3NF) with 8 tables:
 │   └── etl_and_analysis.ipynb      # Python ETL + query execution
 ├── diagrams/
 │   └── ER_diagram.png              # Entity-Relationship diagram
-├── docs/
-│   └── business_requirements.md    # Detailed business requirements
 ├── requirements.txt
 └── README.md
 ```
