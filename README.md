@@ -24,7 +24,7 @@ The database follows Third Normal Form (3NF) with 8 tables:
 | `products` | Individual SKUs with pricing |
 | `events` | Central fact table with event metrics and foreign keys |
 
-![ER Diagram](ER_diagram.png)
+![ER Diagram](ER diagram.png)
 
 ## Repository Structure
 
