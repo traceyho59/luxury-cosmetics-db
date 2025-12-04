@@ -138,17 +138,17 @@ Interactive dashboards built with Metabase to support executive decision-making.
 
 Evaluation of event performance relative to footfall and lease duration, featuring revenue efficiency by city, lease length comparisons, and event type analysis.
 
-![BR1 Dashboard](images/dashboard_br1.png)
+![BR1 Dashboard](dashboard_br1.png)
 
 ### Business Requirement #2: Brand Performance Tracking
 
 Analysis of top-performing cities, regions, event types, and location types with performance matrices and detailed combination rankings.
 
-![BR2 Dashboard - Cities & Regions](images/dashboard_br2_1.png)
+![BR2 Dashboard - Cities & Regions](dashboard_br2_1.png)
 
-![BR2 Dashboard - Event & Location Types](images/dashboard_br2_2.png)
+![BR2 Dashboard - Event & Location Types](dashboard_br2_2.png)
 
-![BR2 Dashboard - Top Combinations](images/dashboard_br2_3.png)
+![BR2 Dashboard - Top Combinations](dashboard_br2_3.png)
 
 ## Sample Queries
 
