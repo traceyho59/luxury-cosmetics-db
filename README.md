@@ -115,14 +115,7 @@ Calculates revenue efficiency at both event and location levels:
 - Revenue per lease day by location
 - Supports bar charts and bubble maps for visualization
 
-### BR#2: High-Performer Identification
-
-Identifies optimal combinations of event types and location types:
-- Performance matrix with uplift calculations vs. global/regional averages
-- Tier classification (Excellent, Good, Average, Needs Improvement)
-- R² analysis to determine relative importance of event type vs. location type
-
-### BR#3: Brand Performance Tracking
+### BR#2: Brand Performance Tracking
 
 Comprehensive brand analytics:
 - KPI scorecard with key metrics
