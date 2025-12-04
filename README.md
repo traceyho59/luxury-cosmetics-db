@@ -182,6 +182,10 @@ Analysis of top-performing cities, regions, event types, and location types with
 
 ![BR2 Dashboard - Top Combinations](dashboard_br2_3.png)
 
+![BR2 Dashboard - Conversion Rate Leaders](dashboard_br2_4.png)
+
+![BR2 Dashboard - Top Performing Brands](dashboard_br2_5.png)
+
 ## Authors
 
 APAN 5310 Project Team - Columbia University:
