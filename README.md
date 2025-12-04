@@ -44,7 +44,9 @@ The database follows Third Normal Form (3NF) with 8 tables:
 │   ├── dashboard_br1.png               # Revenue efficiency dashboard
 │   ├── dashboard_br2_1.png             # Brand performance (cities/regions)
 │   ├── dashboard_br2_2.png             # Brand performance (event/location types)
-│   └── dashboard_br2_3.png             # Brand performance (combinations)
+│   ├── dashboard_br2_3.png             # Brand performance (combinations)
+│   ├── dashboard_br2_4.png             # Brand performance (conversion rate)
+│   └── dashboard_br2_5.png             # Brand performance (brands)
 ├── requirements.txt
 └── README.md
 ```
