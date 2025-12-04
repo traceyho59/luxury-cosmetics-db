@@ -180,8 +180,6 @@ Analysis of top-performing cities, regions, event types, and location types with
 
 ![BR2 Dashboard - Event & Location Types](dashboard_br2_2.png)
 
-![BR2 Dashboard - Top Combination](dashboard_br2_3.png)
-
 ![BR2 Dashboard - Conversion Rate Leaders](dashboard_br2_4.png)
 
 ![BR2 Dashboard - Top Performing Brands](dashboard_br2_5.png)
